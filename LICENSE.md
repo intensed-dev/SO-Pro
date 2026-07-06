@@ -1,4 +1,4 @@
-# San Orien License 1.0 (SOSL-1.0)
+# San Orien Pro License 1.0 (SOPL-1.0)
 
 **Copyright © 2026 Intensed-dev. All rights reserved.**
 
